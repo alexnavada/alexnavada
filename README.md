@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://cdn.discordapp.com/attachments/1010988256285958214/1361487114524692600/alextas2.png?ex=67feef2f&is=67fd9daf&hm=590b40a500fd7ea7774166910b2058ef1f27c4677af56f954bf93ae5c8192066&"  />
+  <img height="" src="https://i.hizliresim.com/rm2bnz0.png"  />
 </div>
 
 ###
