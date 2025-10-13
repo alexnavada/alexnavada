@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hey there! I'm Batu, a high school student with a passion for artificial intelligence, web design, building websites, and coding tools. On my GitHub, you'll find a variety of open-source projects, including AI-related work, web development, and tool creation. I love learning new things and contributing to the tech community through my projects.</h3>
+<h3 align="center"></h3>
 
 ###
 
